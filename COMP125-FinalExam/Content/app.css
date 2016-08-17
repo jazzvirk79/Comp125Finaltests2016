@@ -1,0 +1,25 @@
+/* custom css goes here */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 70px;
+}
+
+
+#canvas{
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+div.dice{
+	float:left;
+	width:32px;
+	background:#F5F5F5;
+	border:#999 1px solid;
+	padding:10px;
+	font-size:24px;
+	text-align:center;
+	margin:5px;
+}
